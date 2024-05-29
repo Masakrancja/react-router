@@ -1,0 +1,23 @@
+article.products > h3 {
+    margin-bottom: 20px;
+}
+
+article.products > ul {
+    padding-left: 30px;
+}
+
+article.products li {
+    list-style-type:square;
+    margin-bottom: 10px;
+}
+
+article.products a {
+    color: #333;
+    text-decoration: none;
+}
+
+article.products a:hover {
+    color: black;
+    text-decoration: underline;
+}
+

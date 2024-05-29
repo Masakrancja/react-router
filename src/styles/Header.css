@@ -1,0 +1,12 @@
+header {
+    overflow: hidden;
+    position: relative;
+}
+
+header > img {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateX(-50%);
+    transform: translateY(-50%);
+}
